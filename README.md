@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Cross Modal Transformer
 
 to prepare dataset:
@@ -23,10 +21,3 @@ to pretrain the model:
 ```
 python cross_modal_pretrain.py ${frame_dir} ${annotation_file}
 ```
-
-=======
-# CrossModalTransformer
->>>>>>> parent of 8cd9f0f (upload pretrained model)
-=======
-# CrossModalTransformer
->>>>>>> parent of 8cd9f0f (upload pretrained model)
