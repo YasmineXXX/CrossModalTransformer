@@ -1,0 +1,4 @@
+AO8RW 0.0 6.9##a person is putting a book on a shelf.
+Y6R7T 20.8 30.0##person begins to play on a phone.
+Y6R7T 20.8 30.0##person start playing on their phone.
+Y6R7T 7.3 17.3##person pouring it into a glass.

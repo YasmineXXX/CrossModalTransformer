@@ -1,0 +1,22 @@
+{
+    "backbone_channel_in_size": 2048,
+    "hidden_size": 768,
+    "max_grid_row_position_embeddings": 100,
+    "max_grid_col_position_embeddings": 100,
+    "max_position_embeddings": 512,
+    "vocab_size": 30522,
+    "pad_token_id": 0,
+    "bsz": 12,
+    "head": 64,
+    "layer_norm_eps": 1e-12,
+    "dropout": 0.1,
+    "num_epochs": 50,
+    "segment_duration": 36,
+    "learning_rate": 5e-5,
+    "dataset_name": "charades-sta",
+    "DEVICE_IDS": [3],
+    "grid_size": 9,
+    "type_vocab_size": 2,
+    "hidden_dropout_prob": 0.1,
+    "margin": 0.1
+}
