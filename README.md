@@ -4,6 +4,11 @@ to prepare dataset:
 
 [Perceptual Reasoning and Interaction Research - Charades (allenai.org)](https://prior.allenai.org/projects/charades)
 
+to download the pretrained models:
+
+链接：https://pan.baidu.com/s/1MQGJ3TgI-DrBvjPgD5E1MQ 
+提取码：4kdm 
+
 to train the model:
 
 ```
